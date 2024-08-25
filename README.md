@@ -1,4 +1,4 @@
-# Hi there, I'm [VICTORY WEST]! 👋
+# Hi there, I'm [VICTORY WEST WAS HERE]! 👋
 
 ![Banner Image](your_banner_image_url_here)
 

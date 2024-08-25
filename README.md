@@ -40,4 +40,4 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Twitter]**(https://x.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJteCI6IjIifQ%3D%3D%22%7D)

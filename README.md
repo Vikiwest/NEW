@@ -24,17 +24,17 @@ I'm a passionate web developer with experience in HTML, CSS, Javascript, React, 
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Blog](https://vikiwest.github.io/Blog-Post/)
 
-![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+**[Personal Blog]** is a **[brief project description]** built with **[Html, Css ]**. This project demonstrates my ability to create responsive websites using media Query. You can check out the repository [here](https://vikiwest.github.io/Blog-Post/).
 
-![Project 2 Screenshot](project_2_screenshot_url)
+### [Profile Card](https://vikiwest.github.io/Profile-Card/)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+
+
+**[Profile Card]** is a personal profile card I made for myself, built with Html, Css, and Javascript. This project showcases my skills in Javascript Date and time Integration, as well as responsive designs. You can check out the repository [here](https://vikiwest.github.io/Profile-Card/).
 
 ## Get in Touch 📬
 

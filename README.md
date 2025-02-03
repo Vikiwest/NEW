@@ -1,15 +1,15 @@
-# Hi there, I'm [VICTORY WEST WAS HERE]! 👋
+# Hi there, I'm Olorunda Victory! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate web developer with experience in HTML, CSS, Javascript, React, and NodeJs . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
+- 🌱 Currently learning: Backend Integration
+- 🔭 Working on: Data Base Integration
+- 🌍 Languages: NodeJs
+- 📫 How to reach me: chidiolorunda@gmail.com
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
@@ -20,7 +20,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
 
 ## Featured Projects 💻
 
@@ -38,6 +38,6 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(https://x.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJteCI6IjIifQ%3D%3D%22%7D)
+- **[Personal Website / Blog]**(https://portfoliofront-nppt.onrender.com)
+- **[LinkedIn]**(https://www.linkedin.com/in/victory-olorunda-aa615030a/)
+- **[Twitter]**(https://x.com/VOlorunda)
